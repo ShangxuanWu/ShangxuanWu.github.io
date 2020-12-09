@@ -2606,7 +2606,7 @@
 		background-size: cover;
 		content: '';
 		display: block;
-		height: 34em;
+		height: 0em;
 		width: 100%;
 	}
 
